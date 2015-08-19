@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Splunk.Logging.Common")]
+[assembly: AssemblyTitle("Splunk.Logging.CommonEx")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Splunk, Inc.")]
-[assembly: AssemblyProduct("Splunk.Logging.Common")]
+[assembly: AssemblyProduct("Splunk.Logging.CommonEx")]
 [assembly: AssemblyCopyright("Copyright © Splunk, Inc. 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

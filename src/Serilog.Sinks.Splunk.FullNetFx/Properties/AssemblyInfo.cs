@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 
-[assembly: AssemblyTitle("Serilog.Sinks.Splunk.FullNetFx")]
+[assembly: AssemblyTitle("Serilog.Sinks.Splunk.FullNetFxEX")]
 [assembly: AssemblyDescription("Serilog sink for Splunk using .Net 4.5")]
 [assembly: AssemblyCopyright("Copyright © Serilog Contributors 2014")]
 

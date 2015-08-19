@@ -21,7 +21,7 @@ using System.Runtime.InteropServices;
 
 //// General Information
 
-[assembly: AssemblyProduct("splunk-sdk-csharp-pcl")]
+[assembly: AssemblyProduct("splunk-sdk-csharp-pclEx")]
 [assembly: AssemblyTitle("Splunk.Client")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
