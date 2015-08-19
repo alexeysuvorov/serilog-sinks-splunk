@@ -1,4 +1,6 @@
 # serilog-sinks-splunk
+! This fork includes Splunk client sources signed by serilog key
+
 [![Package Logo](http://serilog.net/images/serilog-sink-nuget.png)](http://nuget.org/packages/serilog.sinks.splunk)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/yt40wg34t8oj61al?svg=true)](https://ci.appveyor.com/project/serilog/serilog-sinks-splunk) 
